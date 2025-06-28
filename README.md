@@ -29,3 +29,4 @@ Overall, this task significantly enhanced my understanding of how synchronous RA
 **SIMULATION OUTPUT
 
 ![Image](https://github.com/user-attachments/assets/d905943b-1e5d-4506-9608-4482a88471a6)
+
